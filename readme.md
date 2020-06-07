@@ -4,6 +4,8 @@
 
 its a simple todo web app and api service .Its not using any database just mimicking the api.
 
+![Image of node-js-tood](https://github.com/milon27/node-js-todo/blob/master/screenshot.png)
+
 ## Features
 
 ### 1: add new todo item
